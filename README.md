@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
