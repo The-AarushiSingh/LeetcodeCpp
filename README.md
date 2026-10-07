@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0024-swap-nodes-in-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
