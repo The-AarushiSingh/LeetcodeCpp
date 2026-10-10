@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 | [1096-brace-expansion-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -243,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
