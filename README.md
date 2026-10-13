@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0071-simplify-path) |
 | [0301-remove-invalid-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0856-score-of-parentheses) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
