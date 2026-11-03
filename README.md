@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
