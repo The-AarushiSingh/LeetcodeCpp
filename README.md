@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0040-combination-sum-ii) |
 | [0835-image-overlap](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/0016-3sum-closest) |
 | [1096-brace-expansion-ii](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/The-AarushiSingh/LeetcodeCpp/tree/master/3727-maximum-alternating-sum-of-squares) |
